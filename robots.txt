@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://fatimaibrahim01.github.io/sitemap.xml
